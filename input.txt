@@ -1,0 +1,8 @@
+cris_123,cris123,cristina,2,mac_123,lisa_123,0,loving the beach sun!!
+mac_123,mac123,mac,2,cris_123,sam_123,2,lisa_123,alice_123,Having fun in LA :D
+sam_123,sam123,samantha,4,mac_123,albert_123,drake_123,alice_123,1,cris_123,house party rocks!!!
+albert_123,alb123,albert,2,sam_123,alice_123,1,lisa_123,road trip to grand canyon! loving it!
+alice_123,alice123,alice,4,albert_123,sam_123,andrew_123,drake_123,0,missing my cute dog :(
+andrew_123,andrew123,andrew,1,alice_123,1,cris_123,happy holidays! Sleepy weekend :|
+drake_123,drake123,drake,3,alice_123,sam_123,lisa_123,3,cris_123,mac_123,andrew_123,love you all :)
+lisa_123,lisa123,lisa,2,drake_123,cris_123,1,andrew_123,having fun shopping!
